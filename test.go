@@ -2,6 +2,7 @@ package programs
 
 import "fmt"
 
-func Ok() {
-  fmt.Println("Sei una merda!")
+func Ok() string {
+  s := "Sei una merda!"
+  return s
 }
