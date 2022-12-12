@@ -2,6 +2,6 @@ package programs
 
 import "fmt"
 
-func ok() {
+func Ok() {
   fmt.Println("Sei una merda!")
 }
